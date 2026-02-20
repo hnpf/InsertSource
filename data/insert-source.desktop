@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Insert
+Comment=Install drivers and system utilities easily
+Exec=python3 /usr/share/insert-source/src/ui/main.py
+Icon=system-software-install
+Terminal=false
+Type=Application
+Categories=System;Settings;
+Keywords=driver;install;setup;

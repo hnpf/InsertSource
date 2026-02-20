@@ -1,0 +1,12 @@
+[project]
+name = "insert"
+version = "0.1.0"
+description = "A friendly system utility and driver installer"
+requires-python = ">=3.10"
+dependencies = [
+    "pygobject",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
